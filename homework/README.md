@@ -27,11 +27,11 @@
 
 ### （1）sklearn.datasets.load_digits
 
-![Graph1](C:\Users\戴尔\Desktop\DM\1.png)
+![Graph1](./1.png)
 
 ### （2）sklearn.datasets.fetch_20newsgroups
 
-![Graph2](C:\Users\戴尔\Desktop\DM\2.png)
+![Graph2](./2.png)
 
 ## 六、    结论
 
